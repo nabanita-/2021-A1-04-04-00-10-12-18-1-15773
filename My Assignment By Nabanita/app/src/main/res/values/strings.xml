@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 1 ASEML</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="edit_contact">Enter a phone number or an email address</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="button_voice">Voice Input</string>
+    <string name="send_email">Send email with</string>
+    <string name="send_sms">Send SMS with</string>
+</resources>
